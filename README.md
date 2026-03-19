@@ -1,6 +1,6 @@
 # school_ai_homework
 player1(blue)<br>
-wad to move<br>
+w a d to move<br>
 s to defence<br>
 <br>
 player2(red)<br>
